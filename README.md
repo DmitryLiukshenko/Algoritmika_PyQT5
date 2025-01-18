@@ -1,0 +1,1 @@
+# Algoritmika_PyQT5
